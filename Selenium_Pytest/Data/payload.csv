@@ -1,0 +1,7 @@
+name|email|password|exp_res|пояснения
+bvv_04|bvv_04mail.ru|1234|0|недопустимый email
+bvv_05|bvv_05@mailru|1234|0|недопустимый email
+bvv_06|@mail.ru|1234|0|недопустимый email
+bvv_07|bvv_07@@mail.ru|1234|0|недопустимый email
+bvv_08|.bvv_08@mail.ru|1234|0|недопустимый email
+bvv_09|bvv..09@mail.ru|1234|0|недопустимый email
